@@ -1,0 +1,21 @@
+id,question,current_answer,historical_answers,reference_year,source_dataset,source_split,source_id,source_date,historical_dates
+sq-train-4629920288882936121,who took third place in the world cup as of 2020,Belgium,Netherlands,2020,SituatedQA temporal QA,train,4629920288882936121,2020,2016
+sq-train-4244651042163973524,who is the american league home run leader as of 2020,Luke Voit,Jorge Soler,2020,SituatedQA temporal QA,train,4244651042163973524,2020,2019
+sq-train-4288798153560531374,who is the leading rusher of all time as of 2020,Emmitt Smith,Walter Payton,2020,SituatedQA temporal QA,train,4288798153560531374,2020,2000
+sq-train-6401495941651503543,when was the last time army went to a bowl game as of 2020,Liberty Bowl,Armed Forces Bowl,2020,SituatedQA temporal QA,train,6401495941651503543,2020,2019
+sq-train--833390295300933075,when was the last time usa did not qualify for the world cup as of 2020,2018,1986,2020,SituatedQA temporal QA,train,-833390295300933075,2020,2009
+sq-train-3640178421252637312,who is the governor of the state of missouri as of 2020,Mike Parson,Eric Greitens,2020,SituatedQA temporal QA,train,3640178421252637312,2020,2017
+sq-train--7023363435048751412,when was the last time duke won a bowl game as of 2020,Independence,Quick Lane,2020,SituatedQA temporal QA,train,-7023363435048751412,2020,2017
+sq-train--5255401163599754744,when was the last time tiger woods won a major golf championship as of 2020,2019,2008,2020,SituatedQA temporal QA,train,-5255401163599754744,2020,2012
+sq-train-2369680292015222010,when is the last time real madrid won la liga as of 2020,2019-20,2016-17,2020,SituatedQA temporal QA,train,2369680292015222010,2020,2019
+sq-train--7200135244767295755,when was the last time the world series went to a game 7 as of 2020,2019,2017,2020,SituatedQA temporal QA,train,-7200135244767295755,2020,2018
+sq-train-4542035152301561615,when did italy last win a 6 nations match as of 2020,2015,2013,2020,SituatedQA temporal QA,train,4542035152301561615,2020,2014
+sq-train--4793872473804595284,how much does the winner of the arnold palmer invitational make as of 2020,"1,674,000","1,638,000",2020,SituatedQA temporal QA,train,-4793872473804595284,2020,2019
+sq-train--1224259795309358260,how many public schools are there in chicago as of 2020,642,660,2020,SituatedQA temporal QA,train,-1224259795309358260,2020,2016
+sq-train-776516245718992102,when did galway last win the hurling all ireland as of 2020,2017,1988,2020,SituatedQA temporal QA,train,776516245718992102,2020,2011
+sq-train--3765236467506266443,who is the minister of agriculture in zambia as of 2020,Micheal Zondani Katambo,Dora Siliya,2020,SituatedQA temporal QA,train,-3765236467506266443,2020,2017
+sq-train--3866317191330985484,when was the last time ohio executed someone as of 2020,"July 18, 2018","September 13, 2017",2020,SituatedQA temporal QA,train,-3866317191330985484,2020,2017
+sq-train-640155833647220414,when was the last time june 24 was a sunday as of 2020,2018,2012,2020,SituatedQA temporal QA,train,640155833647220414,2020,2015
+sq-train--7657977075320044879,last time illinois went to a bowl game as of 2020,2019,2014,2020,SituatedQA temporal QA,train,-7657977075320044879,2020,2017
+sq-train-4484138463681900206,when was the last time the utah jazz was in the playoffs as of 2020,2020,2019,2020,SituatedQA temporal QA,train,4484138463681900206,2020,2019
+sq-dev--2560470799470625144,when was the last time the dodgers were in the workd series as of 2020,2020 World Series,2018 World Series,2020,SituatedQA temporal QA,dev,-2560470799470625144,2020,2019

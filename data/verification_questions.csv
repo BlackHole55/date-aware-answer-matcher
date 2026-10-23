@@ -1,0 +1,51 @@
+id,question,current_answer,historical_answers,reference_year,source_dataset,source_split,source_id,source_date,historical_dates
+sq-train--309797831041225687,what is the latest version of edge for windows 10 as of 2020,Anaheim,Spartan,2020,SituatedQA temporal QA,train,-309797831041225687,2020,2017
+sq-train-7260412658290703628,when does the season finale of the bachelorette air as of 2020,"December 22, 2020","July 30, 2019",2020,SituatedQA temporal QA,train,7260412658290703628,2020,2019
+sq-train-2231063112772081881,when was the last time raiders beat broncos as of 2020,2020,2019,2020,SituatedQA temporal QA,train,2231063112772081881,2020,2019
+sq-train--3453061066475894999,when was the last time the 76ers made the playoffs as of 2020,2019–20,2018–19,2020,SituatedQA temporal QA,train,-3453061066475894999,2020,2018
+sq-train--7776552727110109294,how many seasons are there in the sons of anarchy as of 2020,7,6,2020,SituatedQA temporal QA,train,-7776552727110109294,2020,2013
+sq-train-9110560374922569250,when is the last time the cleveland browns made the playoffs as of 2020,2020,2002,2020,SituatedQA temporal QA,train,9110560374922569250,2020,2014
+sq-train-2461650092411091220,when did england last reach the semi final as of 2020,The 2018 FIFA World Cup,The 1990 FIFA World Cup,2020,SituatedQA temporal QA,train,2461650092411091220,2020,2007
+sq-train-3917982048971101785,who is the secretery general of the un as of 2020,António Guterres,Ban Ki-moon,2020,SituatedQA temporal QA,train,3917982048971101785,2020,2010
+sq-train--4924260518839355995,the minister of the federal capital territory of nigeria is as of 2020,Mohammed Musa Bello,Bala Mohammed,2020,SituatedQA temporal QA,train,-4924260518839355995,2020,2013
+sq-train--2076294746560995253,how many times have the steelers beat the cowboys as of 2020,16,15,2020,SituatedQA temporal QA,train,-2076294746560995253,2020,2018
+sq-train--6979407422626552988,which presidents of the united states were impeached as of 2020,Donald Trump,Bill Clinton,2020,SituatedQA temporal QA,train,-6979407422626552988,2020,2010
+sq-train-9208361749717055197,what's the hottest it gets in england as of 2020,38.7 °C,38.5 °C,2020,SituatedQA temporal QA,train,9208361749717055197,2020,2017
+sq-dev--4318440374887863937,when did newcastle united last won a trophy as of 2020,The 2016-2017 English League Football,The 2009–10 English League Football,2020,SituatedQA temporal QA,dev,-4318440374887863937,2020,2013
+sq-dev--1711399402930722515,when was the last time the detroit lions swept the green bay packers as of 2020,2018,2017,2020,SituatedQA temporal QA,dev,-1711399402930722515,2020,2017
+sq-train--7893419279037194490,who is the us mens national team coach as of 2020,Gregg Berhalter,Dave Sarachan,2020,SituatedQA temporal QA,train,-7893419279037194490,2020,2017
+sq-train--4137028902892404722,what percentage of us gdp is government spending as of 2020,34%,37.9%,2020,SituatedQA temporal QA,train,-4137028902892404722,2020,2017
+sq-train--4557763374561752540,when was the last time the sixers won a championship as of 2020,1983,1967,2020,SituatedQA temporal QA,train,-4557763374561752540,2020,1979
+sq-train-5217999388812745063,when did the vikings win the nfc north as of 2020,2017,"January 3, 2016",2020,SituatedQA temporal QA,train,5217999388812745063,2020,2016
+sq-train-495227218817145293,how much does the state of california pay in federal taxes as of 2020,"472,027,235,000","456,555,954,000",2020,SituatedQA temporal QA,train,495227218817145293,2020,2018
+sq-train--780901962571738690,when was the last fifa world cup held as of 2020,2018,2014,2020,SituatedQA temporal QA,train,-780901962571738690,2020,2016
+sq-train--1878413099088649994,who won premier league goal of the season as of 2020,Son Heung-min,Andros Townsend,2020,SituatedQA temporal QA,train,-1878413099088649994,2020,2019
+sq-train-1794830302242518747,what is the salary of supreme court judge as of 2020,"$277,700","$270,700",2020,SituatedQA temporal QA,train,1794830302242518747,2020,2019
+sq-train-7907682707317618516,who is the current coach of the cleveland browns as of 2020,Kevin Stefanski,Freddie Kitchens,2020,SituatedQA temporal QA,train,7907682707317618516,2020,2019
+sq-dev-9179985899003386877,where did the united kingdom come in the eurovision song contest as of 2020,26,24,2020,SituatedQA temporal QA,dev,9179985899003386877,2020,2018
+sq-train--1407504216961367652,when was the last time the nuggets made the playoffs as of 2020,2020,2019,2020,SituatedQA temporal QA,train,-1407504216961367652,2020,2019
+sq-train--4294317048873692101,what is the biggest university campus in the us as of 2020,University of Central Florida,Texas A&M University,2020,SituatedQA temporal QA,train,-4294317048873692101,2020,2018
+sq-train-7336593330646568839,when did england get to the final of world cup as of 2020,2018,2014,2020,SituatedQA temporal QA,train,7336593330646568839,2020,2017
+sq-train--2746775868051994078,when is the last time msu beat lsu as of 2020,"September 26, 2020","September 16, 2017",2020,SituatedQA temporal QA,train,-2746775868051994078,2020,2019
+sq-train-1945586630426250152,when was the last time the buffalo sabres were in the playoffs as of 2020,2011,2010,2020,SituatedQA temporal QA,train,1945586630426250152,2020,2010
+sq-train-138367235807195995,when was the last time the raptors won the playoffs as of 2020,2020,2019,2020,SituatedQA temporal QA,train,138367235807195995,2020,2019
+sq-train--3849304180921446340,what is the population of st augustine fl as of 2020,"15,415","12,975",2020,SituatedQA temporal QA,train,-3849304180921446340,2020,2017
+sq-train-2450066249047898493,when did galway last win the football all ireland as of 2020,2001,1998,2020,SituatedQA temporal QA,train,2450066249047898493,2020,2000
+sq-train-4258271806751281708,when was the last time there was a solar eclipse in canada as of 2020,"August 11, 2018","November 3, 2013",2020,SituatedQA temporal QA,train,4258271806751281708,2020,2016
+sq-train--5416716520378605756,who was the last red sox player to win a batting title as of 2020,Mookie Betts,Bill Mueller,2020,SituatedQA temporal QA,train,-5416716520378605756,2020,2010
+sq-train-3962621386318786340,who is the current minister of foreign affairs in zambia as of 2020,Joseph Malanji,Harry Kalaba,2020,SituatedQA temporal QA,train,3962621386318786340,2020,2016
+sq-train--1291627435593019015,when did arsenal win the fa cup last as of 2020,2020,2017,2020,SituatedQA temporal QA,train,-1291627435593019015,2020,2019
+sq-train-806337555667215134,who was the last person executed in the state of nebraska as of 2020,Carey Dean Moore,Robert E. Williams,2020,SituatedQA temporal QA,train,806337555667215134,2020,2014
+sq-train-2588874803282125149,what is the biggest wild fire in california history as of 2020,August Complex,Mendocino Complex,2020,SituatedQA temporal QA,train,2588874803282125149,2020,2019
+sq-train-2166534356828040067,who is the manager of middlesbrough football club as of 2020,Neil Warnock,Jonathan Woodgate,2020,SituatedQA temporal QA,train,2166534356828040067,2020,2019
+sq-train--8633629777135983588,when have england reached the world cup semi finals as of 2020,2018,1990,2020,SituatedQA temporal QA,train,-8633629777135983588,2020,2009
+sq-dev--8790556237427954268,when's the last tournament tiger woods won as of 2020,2019,2008,2020,SituatedQA temporal QA,dev,-8790556237427954268,2020,2012
+sq-train--8882731522486863752,how many times have arsenal won the community shield as of 2020,16,15,2020,SituatedQA temporal QA,train,-8882731522486863752,2020,2019
+sq-dev-1115197988363932069,how much does runner up win in us open as of 2020,"1,350,000","1,296,000",2020,SituatedQA temporal QA,dev,1115197988363932069,2020,2018
+sq-train--6202468897211292993,present captain of indian women's t20 team as of 2020,Harmanpreet Kaur,Rumeli Dhar,2020,SituatedQA temporal QA,train,-6202468897211292993,2020,2017
+sq-train--6062534620309619511,when is the newest star wars coming out as of 2020,"December 16, 2019",2017,2020,SituatedQA temporal QA,train,-6062534620309619511,2020,2018
+sq-dev--4980452301598266766,who is the minister for defence in ireland as of 2020,Simon Coveney,Leo Varadkar,2020,SituatedQA temporal QA,dev,-4980452301598266766,2020,2017
+sq-train--975358904819856339,when did tipperary last win the all ireland as of 2020,2019,2016,2020,SituatedQA temporal QA,train,-975358904819856339,2020,2018
+sq-dev--5497941721373096468,who represents 1st norfolk & middlesex district in the massachusetts senate as of 2020,Rebecca L. Rausch,Richard J. Ross,2020,SituatedQA temporal QA,dev,-5497941721373096468,2020,2015
+sq-train--346429556382512494,when did the tampa bay buccaneers win a superbowl as of 2020,2020,2002,2020,SituatedQA temporal QA,train,-346429556382512494,2020,2011
+sq-train--9077531202315370019,when was the open last held at carnoustie as of 2020,2018,2007,2020,SituatedQA temporal QA,train,-9077531202315370019,2020,2016

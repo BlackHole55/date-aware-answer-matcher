@@ -1,0 +1,201 @@
+id,question,current_answer,historical_answers,reference_year,source_dataset,source_split,source_id,source_date,historical_dates
+sq-train--3552565465764303137,how many members of the seventh day adventist as of 2020,"21,760,076",19 million,2020,SituatedQA temporal QA,train,-3552565465764303137,2020,2018
+sq-train-4629920288882936121,who took third place in the world cup as of 2020,Belgium,Netherlands,2020,SituatedQA temporal QA,train,4629920288882936121,2020,2016
+sq-train-4244651042163973524,who is the american league home run leader as of 2020,Luke Voit,Jorge Soler,2020,SituatedQA temporal QA,train,4244651042163973524,2020,2019
+sq-train-4288798153560531374,who is the leading rusher of all time as of 2020,Emmitt Smith,Walter Payton,2020,SituatedQA temporal QA,train,4288798153560531374,2020,2000
+sq-train--4457269597342377008,when was the last time clemson was in the sweet 16 as of 2020,2018,1997,2020,SituatedQA temporal QA,train,-4457269597342377008,2020,2013
+sq-train-6401495941651503543,when was the last time army went to a bowl game as of 2020,Liberty Bowl,Armed Forces Bowl,2020,SituatedQA temporal QA,train,6401495941651503543,2020,2019
+sq-train--833390295300933075,when was the last time usa did not qualify for the world cup as of 2020,2018,1986,2020,SituatedQA temporal QA,train,-833390295300933075,2020,2009
+sq-train-3640178421252637312,who is the governor of the state of missouri as of 2020,Mike Parson,Eric Greitens,2020,SituatedQA temporal QA,train,3640178421252637312,2020,2017
+sq-train--7023363435048751412,when was the last time duke won a bowl game as of 2020,Independence,Quick Lane,2020,SituatedQA temporal QA,train,-7023363435048751412,2020,2017
+sq-train--5255401163599754744,when was the last time tiger woods won a major golf championship as of 2020,2019,2008,2020,SituatedQA temporal QA,train,-5255401163599754744,2020,2012
+sq-train--5220093807701949184,when is the sec championship game between alabama and georgia as of 2020,2018,2012,2020,SituatedQA temporal QA,train,-5220093807701949184,2020,2016
+sq-train-2369680292015222010,when is the last time real madrid won la liga as of 2020,2019-20,2016-17,2020,SituatedQA temporal QA,train,2369680292015222010,2020,2019
+sq-train--7200135244767295755,when was the last time the world series went to a game 7 as of 2020,2019,2017,2020,SituatedQA temporal QA,train,-7200135244767295755,2020,2018
+sq-train-4542035152301561615,when did italy last win a 6 nations match as of 2020,2015,2013,2020,SituatedQA temporal QA,train,4542035152301561615,2020,2014
+sq-train--4793872473804595284,how much does the winner of the arnold palmer invitational make as of 2020,"1,674,000","1,638,000",2020,SituatedQA temporal QA,train,-4793872473804595284,2020,2019
+sq-train--1224259795309358260,how many public schools are there in chicago as of 2020,642,660,2020,SituatedQA temporal QA,train,-1224259795309358260,2020,2016
+sq-train-776516245718992102,when did galway last win the hurling all ireland as of 2020,2017,1988,2020,SituatedQA temporal QA,train,776516245718992102,2020,2011
+sq-train-3095388646952624255,how many cities does the us have with a population of over 1 million as of 2020,10,9,2020,SituatedQA temporal QA,train,3095388646952624255,2020,2015
+sq-train--3765236467506266443,who is the minister of agriculture in zambia as of 2020,Micheal Zondani Katambo,Dora Siliya,2020,SituatedQA temporal QA,train,-3765236467506266443,2020,2017
+sq-train--3866317191330985484,when was the last time ohio executed someone as of 2020,"July 18, 2018","September 13, 2017",2020,SituatedQA temporal QA,train,-3866317191330985484,2020,2017
+sq-train--4754736140675327270,what is the current season of selling houses australia as of 2020,Season 13,Season 12,2020,SituatedQA temporal QA,train,-4754736140675327270,2020,2019
+sq-train--7937023303051082414,when did the last grey's anatomy air as of 2020,"April 9, 2020","May 16, 2019",2020,SituatedQA temporal QA,train,-7937023303051082414,2020,2019
+sq-dev-8155399083140507539,who won the epl goal of the season as of 2020,Son Heung-min,Vincent Kompany,2020,SituatedQA temporal QA,dev,8155399083140507539,2020,2019
+sq-dev--6374804894192540558,what was the last nfl team to go undefeated as of 2020,Steelers,49ers,2020,SituatedQA temporal QA,dev,-6374804894192540558,2020,2019
+sq-dev--1969352956068135544,how many billionaires are there in the us as of 2020,614,607,2020,SituatedQA temporal QA,dev,-1969352956068135544,2020,2019
+sq-train-640155833647220414,when was the last time june 24 was a sunday as of 2020,2018,2012,2020,SituatedQA temporal QA,train,640155833647220414,2020,2015
+sq-train--7657977075320044879,last time illinois went to a bowl game as of 2020,2019,2014,2020,SituatedQA temporal QA,train,-7657977075320044879,2020,2017
+sq-train-4484138463681900206,when was the last time the utah jazz was in the playoffs as of 2020,2020,2019,2020,SituatedQA temporal QA,train,4484138463681900206,2020,2019
+sq-dev--2560470799470625144,when was the last time the dodgers were in the workd series as of 2020,2020 World Series,2018 World Series,2020,SituatedQA temporal QA,dev,-2560470799470625144,2020,2019
+sq-train--1731191574009551168,when was the last tsunami to hit the united states as of 2020,"Taan Fiord, Alaska, U.S.","Spirit Lake, Washington, U.S.",2020,SituatedQA temporal QA,train,-1731191574009551168,2020,2010
+sq-train-3962621386318786340,who is the current minister of foreign affairs in zambia as of 2020,Joseph Malanji,Harry Kalaba,2020,SituatedQA temporal QA,train,3962621386318786340,2020,2016
+sq-train-8511591955753771180,when did england last get to the semi finals of a world cup as of 2020,2018,1990,2020,SituatedQA temporal QA,train,8511591955753771180,2020,2007
+sq-dev-4107255664960308003,when did england last win 6 nations grand slam as of 2020,2020,2017,2020,SituatedQA temporal QA,dev,4107255664960308003,2020,2019
+sq-train-4876816157967429715,name the last english premier league team to win the uefa champions league as of 2020,Liverpool,Chelsea,2020,SituatedQA temporal QA,train,4876816157967429715,2020,2017
+sq-train--2468553952201293348,when did the open last take place at carnousti as of 2020,2018,2007,2020,SituatedQA temporal QA,train,-2468553952201293348,2020,2014
+sq-train--3849304180921446340,what is the population of st augustine fl as of 2020,"15,415","12,975",2020,SituatedQA temporal QA,train,-3849304180921446340,2020,2017
+sq-dev--1711399402930722515,when was the last time the detroit lions swept the green bay packers as of 2020,2018,2017,2020,SituatedQA temporal QA,dev,-1711399402930722515,2020,2017
+sq-train--1928870839328620930,when did new south wales last win state of origin series as of 2020,2019,2018,2020,SituatedQA temporal QA,train,-1928870839328620930,2020,2018
+sq-train--1858595124570317924,when was the last time kentucky beat louisville in football as of 2020,"November 30, 2019","November 24, 2018",2020,SituatedQA temporal QA,train,-1858595124570317924,2020,2018
+sq-train--689473886581466040,who won the medals in womens ice skating as of 2020,Alina Zagitova,Yuna Kim,2020,SituatedQA temporal QA,train,-689473886581466040,2020,2012
+sq-train--1190382034053241916,how many championships do new york knicks have as of 2020,two,one,2020,SituatedQA temporal QA,train,-1190382034053241916,2020,1972
+sq-train-6464027211492990303,when's the last time the world series went 7 games as of 2020,2019,2017,2020,SituatedQA temporal QA,train,6464027211492990303,2020,2018
+sq-train--8633629777135983588,when have england reached the world cup semi finals as of 2020,2018,1990,2020,SituatedQA temporal QA,train,-8633629777135983588,2020,2009
+sq-train-3811007463888839557,what nfl team never went to the super bowl as of 2020,The Browns,Texans,2020,SituatedQA temporal QA,train,3811007463888839557,2020,2019
+sq-train--7685051384984070828,how many seasons are there for highway through hell as of 2020,9,8,2020,SituatedQA temporal QA,train,-7685051384984070828,2020,2019
+sq-train-8038259777214875553,who was the last person to win who wants to be a millionaire as of 2020,David Chang,Nancy Christy,2020,SituatedQA temporal QA,train,8038259777214875553,2020,2019
+sq-train--5416716520378605756,who was the last red sox player to win a batting title as of 2020,Mookie Betts,Bill Mueller,2020,SituatedQA temporal QA,train,-5416716520378605756,2020,2010
+sq-train-3850902951437238317,when does the next world of warcraft expansion come out as of 2020,Shadowlands,Battle for Azeroth,2020,SituatedQA temporal QA,train,3850902951437238317,2020,2019
+sq-train-5217999388812745063,when did the vikings win the nfc north as of 2020,2017,"January 3, 2016",2020,SituatedQA temporal QA,train,5217999388812745063,2020,2016
+sq-train-806337555667215134,who was the last person executed in the state of nebraska as of 2020,Carey Dean Moore,Robert E. Williams,2020,SituatedQA temporal QA,train,806337555667215134,2020,2014
+sq-dev--1191886032185107586,when is the last time the capitals were in the stanley cup finals as of 2020,2018 Stanley Cup Finals,1998 Stanley Cup Finals,2020,SituatedQA temporal QA,dev,-1191886032185107586,2020,2012
+sq-train-7514335648712698108,when was the last time oklahoma voted for a democratic president as of 2020,2020,2012,2020,SituatedQA temporal QA,train,7514335648712698108,2020,2014
+sq-train--5905618346697587163,how many cores does the fastest super computer have as of 2020,"158,976 × 48 A64FX @2.2 GHz","9,216 × 22 POWER9 @3.07 GHz",2020,SituatedQA temporal QA,train,-5905618346697587163,2020,2019
+sq-train-7751825079614645239,chief of staff of the republic of korea army as of 2020,Nam Yeong-shin,Suh Wook,2020,SituatedQA temporal QA,train,7751825079614645239,2020,2019
+sq-train-3283703860386588103,when is the last time the us didn't make the world cup as of 2020,2018,1986,2020,SituatedQA temporal QA,train,3283703860386588103,2020,2016
+sq-dev--1257060324616739704,who is the minister of sanitation in ghana as of 2020,Cecilia Abena Dapaah,Richard Winfred Anane,2020,SituatedQA temporal QA,dev,-1257060324616739704,2020,2013
+sq-train--3853558465357026264,who won the men's ice hockey olympic gold medal as of 2020,Russia,Canada,2020,SituatedQA temporal QA,train,-3853558465357026264,2020,2017
+sq-train--4294317048873692101,what is the biggest university campus in the us as of 2020,University of Central Florida,Texas A&M University,2020,SituatedQA temporal QA,train,-4294317048873692101,2020,2018
+sq-train--4168327619103396650,what channels will the world cup be on usa as of 2020,Fox,ABC,2020,SituatedQA temporal QA,train,-4168327619103396650,2020,2017
+sq-train-8047649797702141450,who has been appointed as the new chancellor of nalanda university as of 2020,Vijay Pandurang Bhatkar,George Yeo,2020,SituatedQA temporal QA,train,8047649797702141450,2020,2016
+sq-train-4777445631123698292,when was the last time the lakers won the nba championship as of 2020,2020,2010,2020,SituatedQA temporal QA,train,4777445631123698292,2020,2015
+sq-train-2588874803282125149,what is the biggest wild fire in california history as of 2020,August Complex,Mendocino Complex,2020,SituatedQA temporal QA,train,2588874803282125149,2020,2019
+sq-dev-880267781147637660,when did adelaide crows win there last premiership as of 2020,2019,2017,2020,SituatedQA temporal QA,dev,880267781147637660,2020,2018
+sq-train-4688624117453429688,who is the current president of the royal society as of 2020,Sir Adrian Smith,Sir Venkatraman Ramakrishnan,2020,SituatedQA temporal QA,train,4688624117453429688,2020,2019
+sq-train--698713127842079537,who is the catholic bishop of washington dc as of 2020,Cardinal Wilton Daniel Gregory,Cardinal Donald William Wuerl,2020,SituatedQA temporal QA,train,-698713127842079537,2020,2017
+sq-train--2816560713445135348,when was the last time lsu beat alabama in football as of 2020,"November 9, 2019","November 3, 2018",2020,SituatedQA temporal QA,train,-2816560713445135348,2020,2018
+sq-train-2046477171040739161,when was the last time france was in the final of the world cup as of 2020,2018 FIFA World Cup,2006 FIFA World Cup,2020,SituatedQA temporal QA,train,2046477171040739161,2020,2010
+sq-train--4962262413361659041,which one is the richest country in africa as of 2020,Egypt,Nigeria,2020,SituatedQA temporal QA,train,-4962262413361659041,2020,2019
+sq-train--2861922205105391878,who won the women's softball world series as of 2020,UCLA,Florida State ACC,2020,SituatedQA temporal QA,train,-2861922205105391878,2020,2018
+sq-train-7824800580067133773,who won the 3-point shootout at the all star game as of 2020,Buddy Hield,Joe Harris,2020,SituatedQA temporal QA,train,7824800580067133773,2020,2019
+sq-train--139794701353626278,who is current chief justice of sindh high court as of 2020,Ahmed Ali Sheikh,Syed Sajjad Ali Shah,2020,SituatedQA temporal QA,train,-139794701353626278,2020,2016
+sq-train--4137028902892404722,what percentage of us gdp is government spending as of 2020,34%,37.9%,2020,SituatedQA temporal QA,train,-4137028902892404722,2020,2017
+sq-train--2717299504703212583,when was the last time we traveled to the moon as of 2020,China,United States,2020,SituatedQA temporal QA,train,-2717299504703212583,2020,2011
+sq-train--7776552727110109294,how many seasons are there in the sons of anarchy as of 2020,7,6,2020,SituatedQA temporal QA,train,-7776552727110109294,2020,2013
+sq-train--6979407422626552988,which presidents of the united states were impeached as of 2020,Donald Trump,Bill Clinton,2020,SituatedQA temporal QA,train,-6979407422626552988,2020,2010
+sq-train-2166534356828040067,who is the manager of middlesbrough football club as of 2020,Neil Warnock,Jonathan Woodgate,2020,SituatedQA temporal QA,train,2166534356828040067,2020,2019
+sq-train--6347578605791900461,which party holds the majority in the house of representatives as of 2020,Democrats,Republicans,2020,SituatedQA temporal QA,train,-6347578605791900461,2020,2019
+sq-train--570424074134042876,when is the last time someone won who wants to be a millionaire as of 2020,David Chang,Nancy Christy,2020,SituatedQA temporal QA,train,-570424074134042876,2020,2013
+sq-train--2615221360356874693,where was the last winter olympics held in us as of 2020,The 2002 Winter Olympics,The 1980 Winter Olympics,2020,SituatedQA temporal QA,train,-2615221360356874693,2020,1988
+sq-train-7336593330646568839,when did england get to the final of world cup as of 2020,2018,2014,2020,SituatedQA temporal QA,train,7336593330646568839,2020,2017
+sq-train-8880269445779443888,who is the new zealand high commissioner in london as of 2020,Bede Corry,Rt Hon. Sir Jerry Mateparae,2020,SituatedQA temporal QA,train,8880269445779443888,2020,2019
+sq-train-138367235807195995,when was the last time the raptors won the playoffs as of 2020,2020,2019,2020,SituatedQA temporal QA,train,138367235807195995,2020,2019
+sq-dev-7474955806376516976,when is the last time minimum wage went up as of 2020,2009,2007,2020,SituatedQA temporal QA,dev,7474955806376516976,2020,2008
+sq-train-5284925109856426362,us tax revenue as a percent of gdp as of 2020,24.5%,24.4%,2020,SituatedQA temporal QA,train,5284925109856426362,2020,2018
+sq-train-3563892931797582785,what is the latest version of oracle database as of 2020,Oracle Database 21c,Oracle Database 19c,2020,SituatedQA temporal QA,train,3563892931797582785,2020,2019
+sq-train-8173147612903404372,what's the population of walnut grove minnesota as of 2020,806,871,2020,SituatedQA temporal QA,train,8173147612903404372,2020,2018
+sq-train-5398964400508507960,when was the last time usa womens hockey won gold as of 2020,2019,2018,2020,SituatedQA temporal QA,train,5398964400508507960,2020,2018
+sq-dev-3069102563259277016,who is the all time leading scorer in nba history as of 2020,Kareem Abdul-Jabbar,Wilt Chamberlain,2020,SituatedQA temporal QA,dev,3069102563259277016,2020,1984
+sq-train--2115296794378102470,who won the us open men's tennis as of 2020,Dominic Thiem,Rafael Nadal,2020,SituatedQA temporal QA,train,-2115296794378102470,2020,2019
+sq-train--3210008579408794730,when was the last time alabama won a national championship as of 2020,2020,2017,2020,SituatedQA temporal QA,train,-3210008579408794730,2020,2019
+sq-dev--1413725843955627404,what is the population of big spring texas as of 2020,"28,187","27,282",2020,SituatedQA temporal QA,dev,-1413725843955627404,2020,2015
+sq-train--2076294746560995253,how many times have the steelers beat the cowboys as of 2020,16,15,2020,SituatedQA temporal QA,train,-2076294746560995253,2020,2018
+sq-train-3652990356489624314,when do new episodes of puppy dog pals come out as of 2020,2020,2019,2020,SituatedQA temporal QA,train,3652990356489624314,2020,2019
+sq-train--2542483133641562390,who is the republican running for senator in florida as of 2020,Kathleen Passidomo,Wilton Simpson,2020,SituatedQA temporal QA,train,-2542483133641562390,2020,2019
+sq-train--6062534620309619511,when is the newest star wars coming out as of 2020,"December 16, 2019",2017,2020,SituatedQA temporal QA,train,-6062534620309619511,2020,2018
+sq-train-5934935766290171288,who has been appointed as the new chief board of control for cricket in india (bcci) as of 2020,Sourav Ganguly,C. K. Khanna,2020,SituatedQA temporal QA,train,5934935766290171288,2020,2018
+sq-train-7260412658290703628,when does the season finale of the bachelorette air as of 2020,"December 22, 2020","July 30, 2019",2020,SituatedQA temporal QA,train,7260412658290703628,2020,2019
+sq-train--7703715580692441706,when is the last time the bills made the playoffs as of 2020,2020,2019,2020,SituatedQA temporal QA,train,-7703715580692441706,2020,2019
+sq-train-8078504481398353414,when did the last pirates of the caribbean come out as of 2020,2017,2011,2020,SituatedQA temporal QA,train,8078504481398353414,2020,2014
+sq-train-6060333965074565178,what is jacqueline wilson's newest book called as of 2020,Love Frankie,Dancing the Charleston,2020,SituatedQA temporal QA,train,6060333965074565178,2020,2019
+sq-train-9208361749717055197,what's the hottest it gets in england as of 2020,38.7 °C,38.5 °C,2020,SituatedQA temporal QA,train,9208361749717055197,2020,2017
+sq-train--1671753368343269049,who is the captain of india in cricket as of 2020,Virat Kohli,Mahendra Singh Dhoni,2020,SituatedQA temporal QA,train,-1671753368343269049,2020,2011
+sq-train--8882731522486863752,how many times have arsenal won the community shield as of 2020,16,15,2020,SituatedQA temporal QA,train,-8882731522486863752,2020,2019
+sq-train-8355807091124818525,when was the last time the bucks won a playoff series as of 2020,2020,2019,2020,SituatedQA temporal QA,train,8355807091124818525,2020,2019
+sq-dev--4318440374887863937,when did newcastle united last won a trophy as of 2020,The 2016-2017 English League Football,The 2009–10 English League Football,2020,SituatedQA temporal QA,dev,-4318440374887863937,2020,2013
+sq-train-1485752534773006057,when was the last time loyola was in the tournament as of 2020,2018,1985,2020,SituatedQA temporal QA,train,1485752534773006057,2020,2013
+sq-train--5266470225571197908,when was the last time cowboys went to the playoffs as of 2020,2018,2016,2020,SituatedQA temporal QA,train,-5266470225571197908,2020,2017
+sq-train-1794830302242518747,what is the salary of supreme court judge as of 2020,"$277,700","$270,700",2020,SituatedQA temporal QA,train,1794830302242518747,2020,2019
+sq-train--331508433182302125,when was the last time england reached semi-finals in the world cup as of 2020,2018 FIFA World Cup,1990 FIFA World Cup,2020,SituatedQA temporal QA,train,-331508433182302125,2020,2004
+sq-train-6000036608288522760,what is the population of pawleys island sc as of 2020,108,103,2020,SituatedQA temporal QA,train,6000036608288522760,2020,2015
+sq-train--975358904819856339,when did tipperary last win the all ireland as of 2020,2019,2016,2020,SituatedQA temporal QA,train,-975358904819856339,2020,2018
+sq-train-6116319690634922724,what is the population of new albany ohio as of 2020,"10,933","7,713",2020,SituatedQA temporal QA,train,6116319690634922724,2020,2017
+sq-train-2208172088412827883,who has the worst era in mlb history as of 2020,Detroit Tigers,Baltimore Orioles,2020,SituatedQA temporal QA,train,2208172088412827883,2020,2018
+sq-dev--4827246800420748953,so you think you can dance how many episodes as of 2020,15,14,2020,SituatedQA temporal QA,dev,-4827246800420748953,2020,2019
+sq-train--309797831041225687,what is the latest version of edge for windows 10 as of 2020,Anaheim,Spartan,2020,SituatedQA temporal QA,train,-309797831041225687,2020,2017
+sq-train--7610443911696021016,when was the last time england played semi finals world cup as of 2020,2018,1990,2020,SituatedQA temporal QA,train,-7610443911696021016,2020,2007
+sq-train-5985882922811822363,who did the buffalo bills pick in the first round draft as of 2020,Ed Oliver,"Josh Allen, Tremaine Edmunds",2020,SituatedQA temporal QA,train,5985882922811822363,2020,2018
+sq-train-7058593500965028648,who won the man booker international prize recently as of 2020,Marieke Lucas Rijneveld,Jokha Alharthi,2020,SituatedQA temporal QA,train,7058593500965028648,2020,2019
+sq-train--5811673323007757644,how many barrels of oil does the us use daily as of 2020,United States,European Union,2020,SituatedQA temporal QA,train,-5811673323007757644,2020,2018
+sq-train-7041662135146892950,when did hull fc win the challenge cup as of 2020,2017,2016,2020,SituatedQA temporal QA,train,7041662135146892950,2020,2016
+sq-train-4689422553659793395,when do the white sox play the cubs as of 2020,2020,2019,2020,SituatedQA temporal QA,train,4689422553659793395,2020,2019
+sq-dev-1115197988363932069,how much does runner up win in us open as of 2020,"1,350,000","1,296,000",2020,SituatedQA temporal QA,dev,1115197988363932069,2020,2018
+sq-dev--5069533667821983214,who is the present health minister of sikkim as of 2020,Mani Kumar Sharm,Somnath Poudyal,2020,SituatedQA temporal QA,dev,-5069533667821983214,2020,2018
+sq-train-589920303894553110,when did england last reach world cup quarter final as of 2020,2018,2006,2020,SituatedQA temporal QA,train,589920303894553110,2020,2016
+sq-train-1636706923850401167,when was the last time lakers were in the playoffs as of 2020,2019–20,2012–13,2020,SituatedQA temporal QA,train,1636706923850401167,2020,2017
+sq-train-9110560374922569250,when is the last time the cleveland browns made the playoffs as of 2020,2020,2002,2020,SituatedQA temporal QA,train,9110560374922569250,2020,2014
+sq-train-443082451300606509,who has been appointed as the new comptroller and auditor general of india as of 2020,G. C. Murmu,Rajiv Mehrishi,2020,SituatedQA temporal QA,train,443082451300606509,2020,2019
+sq-train--1878413099088649994,who won premier league goal of the season as of 2020,Son Heung-min,Andros Townsend,2020,SituatedQA temporal QA,train,-1878413099088649994,2020,2019
+sq-train-5976103878988466642,when was the last time the eagles went to playoffs as of 2020,2018,2017,2020,SituatedQA temporal QA,train,5976103878988466642,2020,2017
+sq-train-2133016068307615793,who won the gold in men's curling at the olympics as of 2020,United States,Canada,2020,SituatedQA temporal QA,train,2133016068307615793,2020,2016
+sq-train-5869718724083541782,how many seasons of man vs food are there as of 2020,8,7,2020,SituatedQA temporal QA,train,5869718724083541782,2020,2018
+sq-train-8863855815687789841,where is the champions league final going to be held as of 2020,Atatürk Olympic Stadium,Estádio da Luz,2020,SituatedQA temporal QA,train,8863855815687789841,2020,2019
+sq-train--4416600828683164615,who won the silver medal in mens figure skating as of 2020,Shoma Uno,Patrick Chan,2020,SituatedQA temporal QA,train,-4416600828683164615,2020,2017
+sq-train--8540721047988438914,who is the captain of new zealand cricket team as of 2020,Tom Latham,Kane Williamson,2020,SituatedQA temporal QA,train,-8540721047988438914,2020,2018
+sq-train--5561207237368387106,what was the song of the year at the grammys as of 2020,Bad Guy,This Is America,2020,SituatedQA temporal QA,train,-5561207237368387106,2020,2019
+sq-train-1637009605115951604,when was the last time england got to semifinals as of 2020,2018,1990,2020,SituatedQA temporal QA,train,1637009605115951604,2020,2010
+sq-train-2231063112772081881,when was the last time raiders beat broncos as of 2020,2020,2019,2020,SituatedQA temporal QA,train,2231063112772081881,2020,2019
+sq-train-3590624887942929026,what is the approximate population of new zealand as of 2020,"4,545,627","4,510,327",2020,SituatedQA temporal QA,train,3590624887942929026,2020,2017
+sq-train-6826661403840818894,when was the last time the browns won a playoff game as of 2020,2020,1994,2020,SituatedQA temporal QA,train,6826661403840818894,2020,2018
+sq-dev-1544458574731106981,what is the current population of phoenix arizona as of 2020,"1,680,992","1,445,632",2020,SituatedQA temporal QA,dev,1544458574731106981,2020,2018
+sq-train--3453061066475894999,when was the last time the 76ers made the playoffs as of 2020,2019–20,2018–19,2020,SituatedQA temporal QA,train,-3453061066475894999,2020,2018
+sq-train-5153412854745122443,where is the chick fil a peach bowl being played as of 2020,Mercedes-Benz Stadium,Georgia Dome,2020,SituatedQA temporal QA,train,5153412854745122443,2020,2017
+sq-train--346429556382512494,when did the tampa bay buccaneers win a superbowl as of 2020,2020,2002,2020,SituatedQA temporal QA,train,-346429556382512494,2020,2011
+sq-train--4557763374561752540,when was the last time the sixers won a championship as of 2020,1983,1967,2020,SituatedQA temporal QA,train,-4557763374561752540,2020,1979
+sq-train--6181572190033005360,when was the last time radford was in march madness as of 2020,2018,2009,2020,SituatedQA temporal QA,train,-6181572190033005360,2020,2017
+sq-train--8823818650364638994,world rugby u20 championship player of the tournament as of 2020,Juan Pablo Castro,Jordan Joseph,2020,SituatedQA temporal QA,train,-8823818650364638994,2020,2018
+sq-train-6520790481995264631,when was the last time the minnesota timberwolves made the playoffs as of 2020,2017-2018,2003-2004,2020,SituatedQA temporal QA,train,6520790481995264631,2020,2015
+sq-train--9077531202315370019,when was the open last held at carnoustie as of 2020,2018,2007,2020,SituatedQA temporal QA,train,-9077531202315370019,2020,2016
+sq-train--4924260518839355995,the minister of the federal capital territory of nigeria is as of 2020,Mohammed Musa Bello,Bala Mohammed,2020,SituatedQA temporal QA,train,-4924260518839355995,2020,2013
+sq-train--7893419279037194490,who is the us mens national team coach as of 2020,Gregg Berhalter,Dave Sarachan,2020,SituatedQA temporal QA,train,-7893419279037194490,2020,2017
+sq-train-2450066249047898493,when did galway last win the football all ireland as of 2020,2001,1998,2020,SituatedQA temporal QA,train,2450066249047898493,2020,2000
+sq-train-1736313722212318189,who won the men's ncaa basketball tournament as of 2020,Virginia,Villanova,2020,SituatedQA temporal QA,train,1736313722212318189,2020,2018
+sq-train--2746775868051994078,when is the last time msu beat lsu as of 2020,"September 26, 2020","September 16, 2017",2020,SituatedQA temporal QA,train,-2746775868051994078,2020,2019
+sq-train-3917982048971101785,who is the secretery general of the un as of 2020,António Guterres,Ban Ki-moon,2020,SituatedQA temporal QA,train,3917982048971101785,2020,2010
+sq-train-6861377689727785410,what is the age of supreme court justices as of 2020,"John Roberts, 66","Rehnquist, William H. 81",2020,SituatedQA temporal QA,train,6861377689727785410,2020,2010
+sq-train-7398690925624213899,what is current version of adobe flash player as of 2020,32.0.0.465,29.0.0.171,2020,SituatedQA temporal QA,train,7398690925624213899,2020,2013
+sq-dev--9160538222830319507,when did england last get into semi finals as of 2020,2018,1990,2020,SituatedQA temporal QA,dev,-9160538222830319507,2020,2010
+sq-train-2728228414906581783,when was the last time the bills won their division as of 2020,2020,1999,2020,SituatedQA temporal QA,train,2728228414906581783,2020,2018
+sq-train-8369724318880894003,who won the last 5 national championships in college football as of 2020,Alabama,LSU,2020,SituatedQA temporal QA,train,8369724318880894003,2020,2019
+sq-train--6399700363152786331,who won the boston marathon men's division as of 2020,Lawrence Cherono,Yuki Kawauchi,2020,SituatedQA temporal QA,train,-6399700363152786331,2020,2018
+sq-train--2536490580432052632,who is the bbc footballer of the year as of 2020,Mohamed Salah,Riyad Mahrez,2020,SituatedQA temporal QA,train,-2536490580432052632,2020,2016
+sq-train-4258271806751281708,when was the last time there was a solar eclipse in canada as of 2020,"August 11, 2018","November 3, 2013",2020,SituatedQA temporal QA,train,4258271806751281708,2020,2016
+sq-train-5640814393013964457,who's the starting quarterback for the buffalo bills as of 2020,Josh Allen,Matt Barkley,2020,SituatedQA temporal QA,train,5640814393013964457,2020,2018
+sq-train-3184211897698903130,who is man united player of the year as of 2020,Bruno Fernandes,Luke Shaw,2020,SituatedQA temporal QA,train,3184211897698903130,2020,2019
+sq-dev-7457518655087401024,is the governor of west virginia a democrat or republican as of 2020,Republican,Democratic,2020,SituatedQA temporal QA,dev,7457518655087401024,2020,2016
+sq-train--217822621934446860,who is the quarterback for tampa bay buccaneers as of 2020,Tom Brady,Jameis Winston,2020,SituatedQA temporal QA,train,-217822621934446860,2020,2018
+sq-train-495227218817145293,how much does the state of california pay in federal taxes as of 2020,"472,027,235,000","456,555,954,000",2020,SituatedQA temporal QA,train,495227218817145293,2020,2018
+sq-train-2888523349220895402,what is the newest battlefield game for ps4 as of 2020,Battlefield V: Into The Jungle,Battlefield V: War in the Pacific,2020,SituatedQA temporal QA,train,2888523349220895402,2020,2019
+sq-train--4767786471135006230,who was the last supreme court nominee to be rejected as of 2020,Merrick Garland,Harriet Miers,2020,SituatedQA temporal QA,train,-4767786471135006230,2020,2013
+sq-train-3123369282351972170,when was the last time england reached the world cup semi finals as of 2020,The 2018 FIFA World Cup,The 1990 FIFA World Cup,2020,SituatedQA temporal QA,train,3123369282351972170,2020,2001
+sq-dev-9179985899003386877,where did the united kingdom come in the eurovision song contest as of 2020,26,24,2020,SituatedQA temporal QA,dev,9179985899003386877,2020,2018
+sq-train-2551032459638156719,what is the population of the magdalen islands as of 2020,"12,781","13,091",2020,SituatedQA temporal QA,train,2551032459638156719,2020,2010
+sq-train--1407504216961367652,when was the last time the nuggets made the playoffs as of 2020,2020,2019,2020,SituatedQA temporal QA,train,-1407504216961367652,2020,2019
+sq-train-7907682707317618516,who is the current coach of the cleveland browns as of 2020,Kevin Stefanski,Freddie Kitchens,2020,SituatedQA temporal QA,train,7907682707317618516,2020,2019
+sq-train--4438928836399187966,when was the last time the rockets went to the playoffs as of 2020,2020,2019,2020,SituatedQA temporal QA,train,-4438928836399187966,2020,2019
+sq-train--1291627435593019015,when did arsenal win the fa cup last as of 2020,2020,2017,2020,SituatedQA temporal QA,train,-1291627435593019015,2020,2019
+sq-train-2831153710042163207,when did england last make the semi finals world cup as of 2020,2018,1990,2020,SituatedQA temporal QA,train,2831153710042163207,2020,2008
+sq-dev--5497941721373096468,who represents 1st norfolk & middlesex district in the massachusetts senate as of 2020,Rebecca L. Rausch,Richard J. Ross,2020,SituatedQA temporal QA,dev,-5497941721373096468,2020,2015
+sq-train--2897294436492264617,which is the poorest state in the united states as of 2020,Mississippi,Michigan,2020,SituatedQA temporal QA,train,-2897294436492264617,2020,2018
+sq-train-8876175157500803872,when was the last time the cincinnati bengals were in the playoffs as of 2020,2015,2014,2020,SituatedQA temporal QA,train,8876175157500803872,2020,2014
+sq-train-9110447063539355271,who is the richest person in the philippines as of 2020,Sy Siblings,Henry Sy,2020,SituatedQA temporal QA,train,9110447063539355271,2020,2019
+sq-train-7030545313761676341,when did england get to the semi final world cup as of 2020,2020,1990,2020,SituatedQA temporal QA,train,7030545313761676341,2020,2008
+sq-train-3174336083384972192,where does the united states rank in terms of hdi as of 2020,Norway,Netherlands,2020,SituatedQA temporal QA,train,3174336083384972192,2020,2017
+sq-train-7433527513398928520,current chief justice of high court of kerala as of 2020,S. Manikumar,Hrishikesh Roy,2020,SituatedQA temporal QA,train,7433527513398928520,2020,2018
+sq-train-8187028156168278320,what is the latest version of microsoft publisher as of 2020,Microsoft Publisher 2019,Microsoft Publisher 2016,2020,SituatedQA temporal QA,train,8187028156168278320,2020,2017
+sq-train-3963264849514515495,when did us women's soccer win world cup as of 2020,2019 FIFA Women's World Cup,2015 FIFA Women's World Cup,2020,SituatedQA temporal QA,train,3963264849514515495,2020,2017
+sq-train-3979586544469891638,how many countries will qualify for world cup from south america as of 2020,10,9,2020,SituatedQA temporal QA,train,3979586544469891638,2020,2016
+sq-train--3056067353765894549,who is appointed by india as new ambassador to pakistan as of 2020,Ajay Bisaria,Gautam Bambawale,2020,SituatedQA temporal QA,train,-3056067353765894549,2020,2016
+sq-train--1114675337051248175,when did england reach semi finals of world cup as of 2020,2018,1990,2020,SituatedQA temporal QA,train,-1114675337051248175,2020,2008
+sq-train-3019724839284426263,who won the men's ncaa basketball championship as of 2020,Virginia,Villanova,2020,SituatedQA temporal QA,train,3019724839284426263,2020,2018
+sq-dev--8790556237427954268,when's the last tournament tiger woods won as of 2020,2019,2008,2020,SituatedQA temporal QA,dev,-8790556237427954268,2020,2012
+sq-train--7873001225835372199,when was the last time the milwaukee bucks made the playoffs as of 2020,2019–20,2018–19,2020,SituatedQA temporal QA,train,-7873001225835372199,2020,2018
+sq-train-2814883764547300911,who won the f1 grand prix at silverstone as of 2020,Lewis Hamilton,Sebastian Vettel,2020,SituatedQA temporal QA,train,2814883764547300911,2020,2018
+sq-dev-3375243583594902574,how many times have the falcons beat the seahawks as of 2020,41,40,2020,SituatedQA temporal QA,dev,3375243583594902574,2020,2018
+sq-train--3364291193625976644,when is the last time the yankees had a losing season as of 2020,2020,2019,2020,SituatedQA temporal QA,train,-3364291193625976644,2020,2019
+sq-dev--958441530744423868,who is the commissioner of police in trinidad and tobago as of 2020,Gary Griffith,Jack Ewatski,2020,SituatedQA temporal QA,dev,-958441530744423868,2020,2017
+sq-train--780901962571738690,when was the last fifa world cup held as of 2020,2018,2014,2020,SituatedQA temporal QA,train,-780901962571738690,2020,2016
+sq-train--7952216562744139306,who were the last three governors of illinois as of 2020,J. B. Pritzker,"Bruce Rauner, Pat Quinn",2020,SituatedQA temporal QA,train,-7952216562744139306,2020,2018
+sq-dev-3078482795804735765,who won the gold in the men's ice hockey as of 2020,Russia,Canada,2020,SituatedQA temporal QA,dev,3078482795804735765,2020,2017
+sq-dev--4980452301598266766,who is the minister for defence in ireland as of 2020,Simon Coveney,Leo Varadkar,2020,SituatedQA temporal QA,dev,-4980452301598266766,2020,2017

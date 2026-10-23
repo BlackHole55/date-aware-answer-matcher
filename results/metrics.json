@@ -1,0 +1,25 @@
+{
+  "n": 20,
+  "agreement": 0.5,
+  "cohens_kappa": 0.3265993265993266,
+  "per_class": {
+    "Correct": {
+      "support": 10,
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1": 0.6666666666666666
+    },
+    "Outdated": {
+      "support": 7,
+      "precision": 1.0,
+      "recall": 0.2857142857142857,
+      "f1": 0.4444444444444445
+    },
+    "Irrelevant": {
+      "support": 3,
+      "precision": 0.23076923076923078,
+      "recall": 1.0,
+      "f1": 0.375
+    }
+  }
+}

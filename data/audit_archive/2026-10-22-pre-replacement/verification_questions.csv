@@ -1,0 +1,51 @@
+id,question,current_answer,historical_answers,reference_year,source_dataset,source_split,source_id,source_date,historical_dates
+sq-train-1485752534773006057,when was the last time loyola was in the tournament as of 2020,2018,1985,2020,SituatedQA temporal QA,train,1485752534773006057,2020,2013
+sq-dev-3069102563259277016,who is the all time leading scorer in nba history as of 2020,Kareem Abdul-Jabbar,Wilt Chamberlain,2020,SituatedQA temporal QA,dev,3069102563259277016,2020,1984
+sq-train--1878413099088649994,who won premier league goal of the season as of 2020,Son Heung-min,Andros Townsend,2020,SituatedQA temporal QA,train,-1878413099088649994,2020,2019
+sq-train-8863855815687789841,where is the champions league final going to be held as of 2020,Atatürk Olympic Stadium,Estádio da Luz,2020,SituatedQA temporal QA,train,8863855815687789841,2020,2019
+sq-train--698713127842079537,who is the catholic bishop of washington dc as of 2020,Cardinal Wilton Daniel Gregory,Cardinal Donald William Wuerl,2020,SituatedQA temporal QA,train,-698713127842079537,2020,2017
+sq-train-5985882922811822363,who did the buffalo bills pick in the first round draft as of 2020,Ed Oliver,"Josh Allen, Tremaine Edmunds",2020,SituatedQA temporal QA,train,5985882922811822363,2020,2018
+sq-train--7952216562744139306,who were the last three governors of illinois as of 2020,J. B. Pritzker,"Bruce Rauner, Pat Quinn",2020,SituatedQA temporal QA,train,-7952216562744139306,2020,2018
+sq-train--6181572190033005360,when was the last time radford was in march madness as of 2020,2018,2009,2020,SituatedQA temporal QA,train,-6181572190033005360,2020,2017
+sq-dev-1544458574731106981,what is the current population of phoenix arizona as of 2020,"1,680,992","1,445,632",2020,SituatedQA temporal QA,dev,1544458574731106981,2020,2018
+sq-dev-7474955806376516976,when is the last time minimum wage went up as of 2020,2009,2007,2020,SituatedQA temporal QA,dev,7474955806376516976,2020,2008
+sq-train--2816560713445135348,when was the last time lsu beat alabama in football as of 2020,"November 9, 2019","November 3, 2018",2020,SituatedQA temporal QA,train,-2816560713445135348,2020,2018
+sq-train--2076294746560995253,how many times have the steelers beat the cowboys as of 2020,16,15,2020,SituatedQA temporal QA,train,-2076294746560995253,2020,2018
+sq-train-5934935766290171288,who has been appointed as the new chief board of control for cricket in india (bcci) as of 2020,Sourav Ganguly,C. K. Khanna,2020,SituatedQA temporal QA,train,5934935766290171288,2020,2018
+sq-train-4484138463681900206,when was the last time the utah jazz was in the playoffs as of 2020,2020,2019,2020,SituatedQA temporal QA,train,4484138463681900206,2020,2019
+sq-train--3453061066475894999,when was the last time the 76ers made the playoffs as of 2020,2019–20,2018–19,2020,SituatedQA temporal QA,train,-3453061066475894999,2020,2018
+sq-dev-880267781147637660,when did adelaide crows win there last premiership as of 2020,2019,2017,2020,SituatedQA temporal QA,dev,880267781147637660,2020,2018
+sq-train--5561207237368387106,what was the song of the year at the grammys as of 2020,Bad Guy,This Is America,2020,SituatedQA temporal QA,train,-5561207237368387106,2020,2019
+sq-train--689473886581466040,who won the medals in womens ice skating as of 2020,Alina Zagitova,Yuna Kim,2020,SituatedQA temporal QA,train,-689473886581466040,2020,2012
+sq-train-2728228414906581783,when was the last time the bills won their division as of 2020,2020,1999,2020,SituatedQA temporal QA,train,2728228414906581783,2020,2018
+sq-train--3056067353765894549,who is appointed by india as new ambassador to pakistan as of 2020,Ajay Bisaria,Gautam Bambawale,2020,SituatedQA temporal QA,train,-3056067353765894549,2020,2016
+sq-train--5811673323007757644,how many barrels of oil does the us use daily as of 2020,United States,European Union,2020,SituatedQA temporal QA,train,-5811673323007757644,2020,2018
+sq-train-8078504481398353414,when did the last pirates of the caribbean come out as of 2020,2017,2011,2020,SituatedQA temporal QA,train,8078504481398353414,2020,2014
+sq-dev-7457518655087401024,is the governor of west virginia a democrat or republican as of 2020,Republican,Democratic,2020,SituatedQA temporal QA,dev,7457518655087401024,2020,2016
+sq-train-4258271806751281708,when was the last time there was a solar eclipse in canada as of 2020,"August 11, 2018","November 3, 2013",2020,SituatedQA temporal QA,train,4258271806751281708,2020,2016
+sq-train-3184211897698903130,who is man united player of the year as of 2020,Bruno Fernandes,Luke Shaw,2020,SituatedQA temporal QA,train,3184211897698903130,2020,2019
+sq-train-5217999388812745063,when did the vikings win the nfc north as of 2020,2017,"January 3, 2016",2020,SituatedQA temporal QA,train,5217999388812745063,2020,2016
+sq-train--139794701353626278,who is current chief justice of sindh high court as of 2020,Ahmed Ali Sheikh,Syed Sajjad Ali Shah,2020,SituatedQA temporal QA,train,-139794701353626278,2020,2016
+sq-train--4557763374561752540,when was the last time the sixers won a championship as of 2020,1983,1967,2020,SituatedQA temporal QA,train,-4557763374561752540,2020,1979
+sq-train-2814883764547300911,who won the f1 grand prix at silverstone as of 2020,Lewis Hamilton,Sebastian Vettel,2020,SituatedQA temporal QA,train,2814883764547300911,2020,2018
+sq-train--2717299504703212583,when was the last time we traveled to the moon as of 2020,China,United States,2020,SituatedQA temporal QA,train,-2717299504703212583,2020,2011
+sq-train--7657977075320044879,last time illinois went to a bowl game as of 2020,2019,2014,2020,SituatedQA temporal QA,train,-7657977075320044879,2020,2017
+sq-train-5153412854745122443,where is the chick fil a peach bowl being played as of 2020,Mercedes-Benz Stadium,Georgia Dome,2020,SituatedQA temporal QA,train,5153412854745122443,2020,2017
+sq-train--2746775868051994078,when is the last time msu beat lsu as of 2020,"September 26, 2020","September 16, 2017",2020,SituatedQA temporal QA,train,-2746775868051994078,2020,2019
+sq-train--1928870839328620930,when did new south wales last win state of origin series as of 2020,2019,2018,2020,SituatedQA temporal QA,train,-1928870839328620930,2020,2018
+sq-train--7937023303051082414,when did the last grey's anatomy air as of 2020,"April 9, 2020","May 16, 2019",2020,SituatedQA temporal QA,train,-7937023303051082414,2020,2019
+sq-train-495227218817145293,how much does the state of california pay in federal taxes as of 2020,"472,027,235,000","456,555,954,000",2020,SituatedQA temporal QA,train,495227218817145293,2020,2018
+sq-train--1190382034053241916,how many championships do new york knicks have as of 2020,two,one,2020,SituatedQA temporal QA,train,-1190382034053241916,2020,1972
+sq-train--5905618346697587163,how many cores does the fastest super computer have as of 2020,"158,976 × 48 A64FX @2.2 GHz","9,216 × 22 POWER9 @3.07 GHz",2020,SituatedQA temporal QA,train,-5905618346697587163,2020,2019
+sq-train-2046477171040739161,when was the last time france was in the final of the world cup as of 2020,2018 FIFA World Cup,2006 FIFA World Cup,2020,SituatedQA temporal QA,train,2046477171040739161,2020,2010
+sq-train-4876816157967429715,name the last english premier league team to win the uefa champions league as of 2020,Liverpool,Chelsea,2020,SituatedQA temporal QA,train,4876816157967429715,2020,2017
+sq-train-7030545313761676341,when did england get to the semi final world cup as of 2020,2020,1990,2020,SituatedQA temporal QA,train,7030545313761676341,2020,2008
+sq-train--2542483133641562390,who is the republican running for senator in florida as of 2020,Kathleen Passidomo,Wilton Simpson,2020,SituatedQA temporal QA,train,-2542483133641562390,2020,2019
+sq-train-2208172088412827883,who has the worst era in mlb history as of 2020,Detroit Tigers,Baltimore Orioles,2020,SituatedQA temporal QA,train,2208172088412827883,2020,2018
+sq-dev--958441530744423868,who is the commissioner of police in trinidad and tobago as of 2020,Gary Griffith,Jack Ewatski,2020,SituatedQA temporal QA,dev,-958441530744423868,2020,2017
+sq-train-8173147612903404372,what's the population of walnut grove minnesota as of 2020,806,871,2020,SituatedQA temporal QA,train,8173147612903404372,2020,2018
+sq-dev--8790556237427954268,when's the last tournament tiger woods won as of 2020,2019,2008,2020,SituatedQA temporal QA,dev,-8790556237427954268,2020,2012
+sq-train--1671753368343269049,who is the captain of india in cricket as of 2020,Virat Kohli,Mahendra Singh Dhoni,2020,SituatedQA temporal QA,train,-1671753368343269049,2020,2011
+sq-train--4767786471135006230,who was the last supreme court nominee to be rejected as of 2020,Merrick Garland,Harriet Miers,2020,SituatedQA temporal QA,train,-4767786471135006230,2020,2013
+sq-train--8540721047988438914,who is the captain of new zealand cricket team as of 2020,Tom Latham,Kane Williamson,2020,SituatedQA temporal QA,train,-8540721047988438914,2020,2018
+sq-train-6826661403840818894,when was the last time the browns won a playoff game as of 2020,2020,1994,2020,SituatedQA temporal QA,train,6826661403840818894,2020,2018
