@@ -3,6 +3,7 @@
 import argparse
 import csv
 import json
+import sys
 from pathlib import Path
 
 from date_compare import LABELS, join_and_classify, read_csv
@@ -45,7 +46,11 @@ def main():
     parser.add_argument("--analysis", type=Path, default=ROOT / "data/analysis_table.csv")
     parser.add_argument("--results", type=Path, default=ROOT / "results")
     parser.add_argument("--audit", type=Path, default=ROOT / "data/fact_audit.csv")
+    parser.add_argument("--matcher", choices=("exact", "year-token", "verified-refs"), default="exact")
+    parser.add_argument("--references", type=Path, help="Sourced reference variants for verified-refs matcher")
     args = parser.parse_args()
+    if (args.matcher == "verified-refs") != (args.references is not None):
+        parser.error("--references is required exactly when --matcher verified-refs")
     questions = read_csv(args.questions, ("id", "current_answer", "historical_answers"))
     try:
         require_verified(questions, args.audit)
@@ -53,7 +58,17 @@ def main():
         parser.error(str(exc))
     responses = read_csv(args.responses, ("id", "model_answer"))
     humans = read_csv(args.human_labels, ("id", "human_label"))
-    rows = join_and_classify(questions, responses)
+    if args.matcher == "verified-refs":
+        from date_compare_refs import join_and_classify_refs, load_references
+
+        references = load_references(args.references, questions)
+        rows = join_and_classify_refs(questions, responses, references)
+    elif args.matcher == "year-token":
+        from date_compare_v2 import join_and_classify_v2
+
+        rows = join_and_classify_v2(questions, responses)
+    else:
+        rows = join_and_classify(questions, responses)
     by_id = {r["id"]: r for r in humans}
     if set(by_id) != {r["id"] for r in rows}:
         raise ValueError("Human label IDs must exactly match question IDs")
@@ -79,7 +94,9 @@ def main():
     for label in LABELS:
         example = next((r for r in rows if r["auto_label"] == label), None)
         if example:
-            print(f"{label} example: {example['id']} | {example['model_answer']}")
+            line = f"{label} example: {example['id']} | {example['model_answer']}"
+            encoding = sys.stdout.encoding or "utf-8"
+            print(line.encode(encoding, errors="backslashreplace").decode(encoding))
 
 
 if __name__ == "__main__":

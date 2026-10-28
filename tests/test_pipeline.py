@@ -147,7 +147,7 @@ class PipelineTests(unittest.TestCase):
             root = Path(folder)
             (root / "src").mkdir()
             (root / "data").mkdir()
-            for name in ("date_compare.py", "evaluate.py"):
+            for name in ("date_compare.py", "evaluate.py", "fact_audit.py"):
                 shutil.copy2(project / "src" / name, root / "src" / name)
 
             def write_rows(name, fieldnames, rows):

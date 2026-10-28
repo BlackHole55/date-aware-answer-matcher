@@ -1,0 +1,10 @@
+id,label,answer,evidence_url,reason
+sq-train-6401495941651503543,Outdated,2018,https://goarmywestpoint.com/news/2020/12/21/football-black-knights-accept-bowl-bid-to-2020-autozone-liberty-bowl,Army's most recent bowl before the 2020 Liberty Bowl was the 2018 Armed Forces Bowl.
+sq-train-6401495941651503543,Outdated,2018 Armed Forces Bowl,https://goarmywestpoint.com/news/2018/12/22/football-records-fall-in-armys-fourth-consecutive-bowl-win,Army played the 2018 Armed Forces Bowl.
+sq-train--7023363435048751412,Outdated,2015,https://static.goduke.com/custompages/media-guides/football/2018/history_101-127.pdf,Duke won the 2015 Pinstripe Bowl before later bowl wins.
+sq-train--7023363435048751412,Outdated,Pinstripe Bowl,https://static.goduke.com/custompages/media-guides/football/2018/history_101-127.pdf,Duke won the 2015 Pinstripe Bowl.
+sq-train--7200135244767295755,Outdated,2016,https://www.mlb.com/postseason/history/2016,The 2016 World Series reached Game 7 before later seven-game Series.
+sq-train-4484138463681900206,Outdated,2017,https://www.nba.com/jazz/playoffs-preview-jazz-vs-clippers,The Jazz returned to the playoffs in 2017.
+sq-dev--2560470799470625144,Correct,2020,https://www.mlb.com/dodgers/history/postseason-results,The Dodgers reached the 2020 World Series.
+sq-dev--2560470799470625144,Outdated,2018,https://www.mlb.com/dodgers/history/postseason-results,The Dodgers reached the 2018 World Series before 2020.
+sq-dev--2560470799470625144,Outdated,2017,https://www.mlb.com/dodgers/history/postseason-results,The Dodgers reached the 2017 World Series before 2020.
