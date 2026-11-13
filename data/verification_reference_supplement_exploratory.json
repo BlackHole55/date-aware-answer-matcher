@@ -1,0 +1,79 @@
+[
+  {
+    "id": "sq-train--2076294746560995253",
+    "label": "Outdated",
+    "answer": "8",
+    "evidence_url": "https://operations.nfl.com/media/hfjn4oid/2024-record-fact-book-incl-supplemental.pdf",
+    "reason": "The game-by-game Steelers-Cowboys record shows Pittsburgh had reached eight total wins before later wins raised the count to 16 by 2020."
+  },
+  {
+    "id": "sq-train--2076294746560995253",
+    "label": "Outdated",
+    "answer": "8 times",
+    "evidence_url": "https://operations.nfl.com/media/hfjn4oid/2024-record-fact-book-incl-supplemental.pdf",
+    "reason": "The same earlier cumulative count expressed with the unit used in the response."
+  },
+  {
+    "id": "sq-dev--4318440374887863937",
+    "label": "Outdated",
+    "answer": "1969",
+    "evidence_url": "https://www.uefa.com/news/01bc-0e6dc2e08375-9fcff288f3b0-1000--newcastle-awarded-intertoto-cup/",
+    "reason": "The 1969 Fairs Cup was Newcastle's latest trophy at an earlier point before later trophies."
+  },
+  {
+    "id": "sq-dev--4318440374887863937",
+    "label": "Outdated",
+    "answer": "1969 (Inter-Cities Fairs Cup)",
+    "evidence_url": "https://www.uefa.com/news/01bc-0e6dc2e08375-9fcff288f3b0-1000--newcastle-awarded-intertoto-cup/",
+    "reason": "Newcastle won the 1969 Fairs Cup before later trophies, including the 2006 Intertoto Cup."
+  },
+  {
+    "id": "sq-dev--4318440374887863937",
+    "label": "Outdated",
+    "answer": "Inter-Cities Fairs Cup",
+    "evidence_url": "https://www.uefa.com/news/01bc-0e6dc2e08375-9fcff288f3b0-1000--newcastle-awarded-intertoto-cup/",
+    "reason": "Canonical title of Newcastle's earlier 1969 trophy."
+  },
+  {
+    "id": "sq-dev--4318440374887863937",
+    "label": "Outdated",
+    "answer": "2006 Intertoto Cup",
+    "evidence_url": "https://www.uefa.com/news/01bc-0e6dc2e08375-9fcff288f3b0-1000--newcastle-awarded-intertoto-cup/",
+    "reason": "Newcastle's 2006 Intertoto Cup preceded its later Championship titles."
+  },
+  {
+    "id": "sq-dev--1711399402930722515",
+    "label": "Outdated",
+    "answer": "1991",
+    "evidence_url": "https://www.detroitlions.com/news/five-things-to-watch-lions-vs-packers-20163487",
+    "reason": "The Lions' 1991 Packers sweep remained their latest until the 2017 sweep, before the audited 2018 sweep."
+  },
+  {
+    "id": "sq-train--5416716520378605756",
+    "label": "Outdated",
+    "answer": "Carl Yastrzemski",
+    "evidence_url": "https://www.mlb.com/redsox/ballpark/museum/timeline/1960-1969",
+    "reason": "Yastrzemski won a Red Sox batting title before later Red Sox winners."
+  },
+  {
+    "id": "sq-train--5416716520378605756",
+    "label": "Outdated",
+    "answer": "Carl Yastrzemski (1967)",
+    "evidence_url": "https://www.mlb.com/redsox/ballpark/museum/timeline/1960-1969",
+    "reason": "He won the 1967 batting title; his name was once the latest Red Sox batting-title answer, although he also won in 1968."
+  },
+  {
+    "id": "sq-train--5416716520378605756",
+    "label": "Outdated",
+    "answer": "Wade Boggs",
+    "evidence_url": "https://www.mlb.com/redsox/ballpark/museum/timeline/1980-1989",
+    "reason": "Boggs won Red Sox batting titles after Yastrzemski and before Bill Mueller and Mookie Betts."
+  },
+  {
+    "id": "sq-train-3283703860386588103",
+    "label": "Outdated",
+    "answer": "1982",
+    "evidence_url": "https://www.ussoccer.com/stories/2021/11/history-of-usa-mexico-in-world-cup-qualifying",
+    "reason": "The US missed the 1982 World Cup; that was once the latest missed edition, before later misses in 1986 and 2018."
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "id": "sq-train--2076294746560995253",
+    "label": "Outdated",
+    "answer": "8",
+    "evidence_url": "https://operations.nfl.com/media/hfjn4oid/2024-record-fact-book-incl-supplemental.pdf",
+    "reason": "The game-by-game Steelers-Cowboys record shows Pittsburgh had reached eight total wins before later wins raised the count to 16 by 2020."
+  },
+  {
+    "id": "sq-train--2076294746560995253",
+    "label": "Outdated",
+    "answer": "8 times",
+    "evidence_url": "https://operations.nfl.com/media/hfjn4oid/2024-record-fact-book-incl-supplemental.pdf",
+    "reason": "The same earlier cumulative count expressed with the unit used in the response."
+  },
+  {
+    "id": "sq-dev--4318440374887863937",
+    "label": "Outdated",
+    "answer": "1969",
+    "evidence_url": "https://www.uefa.com/news/01bc-0e6dc2e08375-9fcff288f3b0-1000--newcastle-awarded-intertoto-cup/",
+    "reason": "The 1969 Fairs Cup was Newcastle's latest trophy at an earlier point before later trophies."
+  },
+  {
+    "id": "sq-dev--4318440374887863937",
+    "label": "Outdated",
+    "answer": "1969 (Inter-Cities Fairs Cup)",
+    "evidence_url": "https://www.uefa.com/news/01bc-0e6dc2e08375-9fcff288f3b0-1000--newcastle-awarded-intertoto-cup/",
+    "reason": "Newcastle won the 1969 Fairs Cup before later trophies, including the 2006 Intertoto Cup."
+  },
+  {
+    "id": "sq-dev--4318440374887863937",
+    "label": "Outdated",
+    "answer": "Inter-Cities Fairs Cup",
+    "evidence_url": "https://www.uefa.com/news/01bc-0e6dc2e08375-9fcff288f3b0-1000--newcastle-awarded-intertoto-cup/",
+    "reason": "Canonical title of Newcastle's earlier 1969 trophy."
+  },
+  {
+    "id": "sq-dev--4318440374887863937",
+    "label": "Outdated",
+    "answer": "2006 Intertoto Cup",
+    "evidence_url": "https://www.uefa.com/news/01bc-0e6dc2e08375-9fcff288f3b0-1000--newcastle-awarded-intertoto-cup/",
+    "reason": "Newcastle's 2006 Intertoto Cup preceded its later Championship titles."
+  },
+  {
+    "id": "sq-dev--1711399402930722515",
+    "label": "Outdated",
+    "answer": "1991",
+    "evidence_url": "https://www.detroitlions.com/news/five-things-to-watch-lions-vs-packers-20163487",
+    "reason": "The Lions' 1991 Packers sweep remained their latest until the 2017 sweep, before the audited 2018 sweep."
+  },
+  {
+    "id": "sq-train--5416716520378605756",
+    "label": "Outdated",
+    "answer": "Carl Yastrzemski",
+    "evidence_url": "https://www.mlb.com/redsox/ballpark/museum/timeline/1960-1969",
+    "reason": "Yastrzemski won a Red Sox batting title before later Red Sox winners."
+  },
+  {
+    "id": "sq-train--5416716520378605756",
+    "label": "Outdated",
+    "answer": "Carl Yastrzemski (1967)",
+    "evidence_url": "https://www.mlb.com/redsox/ballpark/museum/timeline/1960-1969",
+    "reason": "He won the 1967 batting title; his name was once the latest Red Sox batting-title answer, although he also won in 1968."
+  },
+  {
+    "id": "sq-train--5416716520378605756",
+    "label": "Outdated",
+    "answer": "Wade Boggs",
+    "evidence_url": "https://www.mlb.com/redsox/ballpark/museum/timeline/1980-1989",
+    "reason": "Boggs won Red Sox batting titles after Yastrzemski and before Bill Mueller and Mookie Betts."
+  },
+  {
+    "id": "sq-train-3283703860386588103",
+    "label": "Outdated",
+    "answer": "1982",
+    "evidence_url": "https://www.ussoccer.com/stories/2021/11/history-of-usa-mexico-in-world-cup-qualifying",
+    "reason": "The US missed the 1982 World Cup; that was once the latest missed edition, before later misses in 1986 and 2018."
+  },
+  {
+    "id": "sq-train-6401495941651503543",
+    "label": "Outdated",
+    "answer": "2018",
+    "evidence_url": "https://goarmywestpoint.com/news/2020/12/21/football-black-knights-accept-bowl-bid-to-2020-autozone-liberty-bowl",
+    "reason": "Army's 2018 Armed Forces Bowl was its latest bowl appearance before the 2020 Liberty Bowl."
+  },
+  {
+    "id": "sq-train--7023363435048751412",
+    "label": "Outdated",
+    "answer": "2015",
+    "evidence_url": "https://static.goduke.com/custompages/media-guides/football/2018/history_101-127.pdf",
+    "reason": "Duke won the 2015 Pinstripe Bowl before its later bowl wins."
+  },
+  {
+    "id": "sq-train--7200135244767295755",
+    "label": "Outdated",
+    "answer": "2016",
+    "evidence_url": "https://www.mlb.com/postseason/history/2016",
+    "reason": "The 2016 World Series reached Game 7 before the 2017 and 2019 seven-game Series."
+  },
+  {
+    "id": "sq-train-6464027211492990303",
+    "label": "Outdated",
+    "answer": "2016",
+    "evidence_url": "https://www.mlb.com/postseason/history/2016",
+    "reason": "The 2016 World Series reached Game 7 before the 2017 and 2019 seven-game Series."
+  },
+  {
+    "id": "sq-train-4484138463681900206",
+    "label": "Outdated",
+    "answer": "2017",
+    "evidence_url": "https://www.nba.com/jazz/playoffs-preview-jazz-vs-clippers",
+    "reason": "The Jazz made the 2017 playoffs before later appearances through 2020."
+  },
+  {
+    "id": "sq-dev--2560470799470625144",
+    "label": "Outdated",
+    "answer": "2017",
+    "evidence_url": "https://www.mlb.com/dodgers/history/postseason-results",
+    "reason": "The Dodgers reached the 2017 World Series before their 2018 and 2020 appearances."
+  },
+  {
+    "id": "sq-train--1928870839328620930",
+    "label": "Outdated",
+    "answer": "2014",
+    "evidence_url": "https://www.nrl.com/news/2014/06/18/late-blues-blitz-breaks-maroon-dynasty/",
+    "reason": "New South Wales won the 2014 State of Origin series before its later wins in 2018 and 2019."
+  },
+  {
+    "id": "sq-train--7685051384984070828",
+    "label": "Outdated",
+    "answer": "5",
+    "evidence_url": "https://www.bellmedia.ca/the-lede/press/the-toughest-crew-the-toughest-wrecks-the-toughest-weather-discoverys-original-canadian-hit-series-highway-thru-hell-returns-september-13/",
+    "reason": "Highway Thru Hell reached season 5 in 2016 before season 9 by 2020."
+  },
+  {
+    "id": "sq-train--7685051384984070828",
+    "label": "Outdated",
+    "answer": "5 seasons",
+    "evidence_url": "https://www.bellmedia.ca/the-lede/press/the-toughest-crew-the-toughest-wrecks-the-toughest-weather-discoverys-original-canadian-hit-series-highway-thru-hell-returns-september-13/",
+    "reason": "The earlier season count expressed with the unit used in the response."
+  },
+  {
+    "id": "sq-train-7433527513398928520",
+    "label": "Outdated",
+    "answer": "Justice Hrishikesh Roy",
+    "evidence_url": "https://www.sci.gov.in/judge/justice-hrishikesh-roy/",
+    "reason": "Hrishikesh Roy served as Kerala High Court chief justice before his September 2019 Supreme Court appointment."
+  },
+  {
+    "id": "sq-train-3123369282351972170",
+    "label": "Outdated",
+    "answer": "1990",
+    "evidence_url": "https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/dele-maguire-head-england-into-first-semi-final-in-28-years",
+    "reason": "England reached the 1990 World Cup semifinal before its 2018 semifinal."
+  }
+]

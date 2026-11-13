@@ -1,0 +1,17 @@
+id,category,explanation
+sq-train-2231063112772081881,year_token_overreach,Year 2020 in a longer response triggers Correct while the saved human label is Irrelevant.
+sq-train--3453061066475894999,season_year_equivalence,Response 2020 is judged Correct for reference 2019-20 but is not an exact or year-only reference match.
+sq-train--2076294746560995253,unlisted_historical_answer,Response 8 times is judged Outdated but the listed earlier reference is 15.
+sq-train-9208361749717055197,extended_correct_answer,Response adds Fahrenheit and explanatory words to the current Celsius value.
+sq-dev--4318440374887863937,unlisted_historical_answer,Response names an older trophy year absent from the listed earlier reference.
+sq-dev--1711399402930722515,unlisted_historical_answer,Response gives an older sweep year absent from the listed earlier reference.
+sq-train-4258271806751281708,extended_correct_answer,Date punctuation and spacing differ from the current reference.
+sq-train--5416716520378605756,unlisted_historical_answer,Response gives an older batting-title winner absent from the listed earlier reference.
+sq-train-2588874803282125149,extended_correct_answer,Current wildfire name is embedded in a longer explanatory response.
+sq-train--5561207237368387106,extended_correct_answer,Current song title is embedded in a longer response with artist details.
+sq-train--7873001225835372199,season_year_equivalence,Response 2020 is judged Correct for reference 2019-20 but is not an exact or year-only reference match.
+sq-train-3963264849514515495,multiple_historical_answers,Response lists several older tournament years including the listed historical year.
+sq-train--4438928836399187966,extended_correct_answer,Current year appears in a longer phrase that also contains a different season year.
+sq-dev--1191886032185107586,extended_correct_answer,Response gives the current year without the Stanley Cup Finals phrase in the reference.
+sq-train-5153412854745122443,extended_correct_answer,Response adds location details and uses a nonbreaking hyphen in the current venue name.
+sq-train-3283703860386588103,unlisted_historical_answer,Response gives an older nonqualification year absent from the listed earlier reference.
