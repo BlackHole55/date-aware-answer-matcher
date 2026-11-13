@@ -1,0 +1,99 @@
+{
+  "date": "2026-11-06",
+  "seed": 20261106,
+  "sampling": "Stratified on annotator A labels before the second pass: 33 Correct, 7 Outdated, 10 Irrelevant. The second pass did not read annotator A's label column.",
+  "annotator_a": "Protocol application on 2026-11-05. File renamed from full_200_new_human_labels.csv; column name remains human_label because the scorer requires it.",
+  "annotator_b": "Independent protocol application on 2026-11-06 by a second labeling session. Not a second person.",
+  "ids": [
+    "sq-train--4793872473804595284",
+    "house-2020-georgia-03",
+    "sq-train-6116319690634922724",
+    "sq-train--6399700363152786331",
+    "sq-train--5416716520378605756",
+    "house-2020-washington-04",
+    "sq-train-8173147612903404372",
+    "sq-train-8876175157500803872",
+    "house-2020-massachusetts-08",
+    "house-2020-ohio-02",
+    "sq-dev--1191886032185107586",
+    "sq-train--4438928836399187966",
+    "sq-train--7893419279037194490",
+    "sq-train--1671753368343269049",
+    "sq-train-3962621386318786340",
+    "house-2020-mississippi-01",
+    "sq-train-806337555667215134",
+    "house-2020-south-carolina-01",
+    "house-2020-virginia-06",
+    "house-2020-wisconsin-06",
+    "house-2020-iowa-04",
+    "sq-train-5869718724083541782",
+    "house-2020-indiana-09",
+    "house-2020-utah-02",
+    "sq-train-3223078186396671473",
+    "house-2020-new-york-25",
+    "sq-train--7657977075320044879",
+    "house-2020-california-42",
+    "sq-train--6181572190033005360",
+    "sq-train-7433527513398928520",
+    "sq-train--7200135244767295755",
+    "sq-train--5266470225571197908",
+    "house-2020-kansas-02",
+    "sq-train--2746775868051994078",
+    "house-2020-ohio-10",
+    "sq-dev--8790556237427954268",
+    "sq-train--6202468897211292993",
+    "sq-train-2231063112772081881",
+    "sq-train-5934935766290171288",
+    "house-2020-indiana-04",
+    "sq-train--331508433182302125",
+    "house-2020-arizona-02",
+    "house-2020-south-carolina-03",
+    "house-2020-minnesota-05",
+    "house-2020-idaho-01",
+    "house-2020-utah-03",
+    "sq-train-6401495941651503543",
+    "house-2020-nebraska-02",
+    "sq-train-4258271806751281708",
+    "sq-train-3963264849514515495"
+  ],
+  "disagreements": [
+    {
+      "id": "sq-train-3963264849514515495",
+      "annotator_a": "Irrelevant",
+      "annotator_b": "Outdated",
+      "question": "when did us women's soccer win world cup as of 2020",
+      "model_answer": "1991,\u202f1999,\u202f2015"
+    }
+  ],
+  "n": 50,
+  "agreement": 0.98,
+  "expected_agreement": 0.49400000000000005,
+  "cohens_kappa": 0.9604743083003952,
+  "matrix_rows_annotator_a": {
+    "Correct": {
+      "Correct": 33,
+      "Outdated": 0,
+      "Irrelevant": 0
+    },
+    "Outdated": {
+      "Correct": 0,
+      "Outdated": 7,
+      "Irrelevant": 0
+    },
+    "Irrelevant": {
+      "Correct": 0,
+      "Outdated": 1,
+      "Irrelevant": 9
+    }
+  },
+  "annotator_a_counts": {
+    "Irrelevant": 10,
+    "Correct": 33,
+    "Outdated": 7
+  },
+  "annotator_b_counts": {
+    "Irrelevant": 9,
+    "Correct": 33,
+    "Outdated": 8
+  }
+}

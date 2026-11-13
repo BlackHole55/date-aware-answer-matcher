@@ -1,0 +1,8 @@
+{
+  "model": "openai/gpt-oss-120b",
+  "base_url": "https://api.groq.com/openai/v1",
+  "temperature": 0,
+  "prompt": "Answer the following question with a short factual answer only:\n{question}",
+  "question_file": "C:\\Users\\Meirhan\\Desktop\\Uni\\RMT\\rmt-project\\data\\full_questions_200_new.csv",
+  "started_at_utc": "2026-11-05T07:50:40.216863+00:00"
+}

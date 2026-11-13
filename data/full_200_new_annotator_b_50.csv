@@ -1,0 +1,51 @@
+id,annotator_b_label,notes,evidence_checked
+sq-train--4793872473804595284,Irrelevant,"About $1.44 million is neither the audited 2020 purse ($1,674,000) nor the 2019 purse ($1,638,000).",https://www.pgatour.com/tournaments/2020/arnold-palmer-invitational-presented-by-mastercard/R2020009/past-results
+house-2020-georgia-03,Correct,Drew Ferguson is a clear short form of A. Drew Ferguson IV for this district.,https://historycms.house.gov/WorkArea/DownloadAsset.aspx?id=25769816718
+sq-train-6116319690634922724,Irrelevant,"10,825 is not the audited 2019 estimate of 10,933 and is not the 2010 count of 7,713.",https://franklincountyauditor.com/AUDR-website/media/Documents/Real%20Estate/TIRC%20TOOL/2020/FCAO-TIRC-Report-2020.pdf
+sq-train--6399700363152786331,Correct,"Lawrence Cherono is the audited 2019 champion, still the latest by the end of 2020.",https://www.baa.org/races/boston-marathon/results/champions/
+sq-train--5416716520378605756,Outdated,Carl Yastrzemski won earlier Red Sox batting titles and was not the last as of 2020.,https://www.baseball-reference.com/players/y/yastrca01.shtml
+house-2020-washington-04,Correct,Dan Newhouse matches the 15 December 2020 roster name.,https://historycms.house.gov/WorkArea/DownloadAsset.aspx?id=25769816718
+sq-train-8173147612903404372,Irrelevant,521 is neither the audited 2019 estimate of 806 nor the 2010 count of 871.,https://a.osmarks.net/content/wikipedia_en_all_maxi_2020-08/A/Walnut_Grove%2C_Minnesota
+sq-train-8876175157500803872,Correct,"The response identifies the 2015 season, the audited latest playoff year.",https://www.nfl.com/news/joe-burrow-downplays-bengals-first-playoff-win-in-31-years-this-is-how-it-s-gonn
+house-2020-massachusetts-08,Correct,Stephen F. Lynch matches the 15 December 2020 roster name.,https://historycms.house.gov/WorkArea/DownloadAsset.aspx?id=25769816718
+house-2020-ohio-02,Correct,Brad Wenstrup is a clear short form of Brad R. Wenstrup.,https://historycms.house.gov/WorkArea/DownloadAsset.aspx?id=25769816718
+sq-dev--1191886032185107586,Correct,2018 is the year of the audited 2018 Stanley Cup Finals.,https://www.nhl.com/capitals/history/2018-stanley-cup
+sq-train--4438928836399187966,Correct,"The response identifies the 2019-20 season as 2020, the audited latest playoff year.",https://www.nba.com/rockets/rockets-schedule-resumption-2019-20-nba-season
+sq-train--7893419279037194490,Correct,Gregg Berhalter matches the audited 2020 coach.,https://www.ussoccer.com/stories/2020/12/by-the-numbers-us-mens-national-team-in-2020
+sq-train--1671753368343269049,Correct,Virat Kohli matches the audited 2020 captain.,https://www.icc-cricket.com/news/kohli-opens-up-on-his-captaincy-record-in-icc-tournaments
+sq-train-3962621386318786340,Correct,Joseph Malanji matches the audited 2020 minister.,https://www.parliament.gov.zm/node/5369
+house-2020-mississippi-01,Correct,Trent Kelly matches the 15 December 2020 roster name.,https://historycms.house.gov/WorkArea/DownloadAsset.aspx?id=25769816718
+sq-train-806337555667215134,Correct,Carey Dean Moore matches the audited last execution as of 2020.,https://www.supremecourt.gov/DocketPDF/23/23-6791/300975/20240220181254085_Appendix%20to%20Petition%20for%20Certiorari_2024_02_20.pdf
+house-2020-south-carolina-01,Correct,Joe Cunningham matches the 15 December 2020 roster name.,https://historycms.house.gov/WorkArea/DownloadAsset.aspx?id=25769816718
+house-2020-virginia-06,Correct,Ben Cline matches the 15 December 2020 roster name.,https://historycms.house.gov/WorkArea/DownloadAsset.aspx?id=25769816718
+house-2020-wisconsin-06,Correct,Glenn Grothman matches the 15 December 2020 roster name.,https://historycms.house.gov/WorkArea/DownloadAsset.aspx?id=25769816718
+house-2020-iowa-04,Correct,Steve King matches the 15 December 2020 roster name.,https://historycms.house.gov/WorkArea/DownloadAsset.aspx?id=25769816718
+sq-train-5869718724083541782,Irrelevant,Nine seasons is not the audited count of eight as of 2020.,https://www.sky.com/watch/series/d7c97e41-ac96-4194-a659-6ae9e6936aaa/season-8
+house-2020-indiana-09,Correct,Trey Hollingsworth matches the 15 December 2020 roster name.,https://historycms.house.gov/WorkArea/DownloadAsset.aspx?id=25769816718
+house-2020-utah-02,Correct,Chris Stewart matches the 15 December 2020 roster name.,https://historycms.house.gov/WorkArea/DownloadAsset.aspx?id=25769816718
+sq-train-3223078186396671473,Correct,2018 matches the audited last March Madness appearance.,https://loyolaramblers.com/news/2018/3/11/mens-basketball-loyola-to-face-miami-in-ncaa-tournament-first-round
+house-2020-new-york-25,Correct,Joseph Morelle is a clear short form of Joseph D. Morelle.,https://historycms.house.gov/WorkArea/DownloadAsset.aspx?id=25769816718
+sq-train--7657977075320044879,Correct,The 2019 Redbox Bowl is the audited latest bowl as of 2020.,https://fightingillini.com/sports/2016/9/14/football-bowl-games
+house-2020-california-42,Irrelevant,Mike Levin is neither Ken Calvert nor Gary G. Miller for this numbered district.,https://historycms.house.gov/WorkArea/DownloadAsset.aspx?id=25769816718
+sq-train--6181572190033005360,Correct,2018 matches the audited last March Madness appearance.,https://radfordathletics.com/news/2018/3/4/radford-mens-basketball-big-south-champions
+sq-train-7433527513398928520,Outdated,Hrishikesh Roy is the audited predecessor; S. Manikumar was Chief Justice by 2020.,https://cdnbbsr.s3waas.gov.in/s35d6646aad9bcc0be55b2c82f69750387/uploads/2021/11/2021110885.pdf
+sq-train--7200135244767295755,Outdated,"2016 was a real Game 7, and it had ceased to be the latest by 2017 and again by 2019.",https://www.baseball-reference.com/postseason/2016_WS.shtml
+sq-train--5266470225571197908,Irrelevant,The audit says Dallas missed the 2019 playoffs; 2019 is not an earlier true answer.,https://www.nfl.com/news/overreactions-to-the-2021-nfl-schedule-cowboys-playoff-hopes-hinge-on-one-game
+house-2020-kansas-02,Irrelevant,Ron Estes is neither Steve Watkins nor Lynn Jenkins for this numbered district.,https://historycms.house.gov/WorkArea/DownloadAsset.aspx?id=25769816718
+sq-train--2746775868051994078,Outdated,"Mississippi State beat LSU on 23 October 1999; later wins in 2014, 2017, and 2020 superseded that year.",https://www.espn.com/ncf/1999/991023/recap/llimmq.html
+house-2020-ohio-10,Correct,Mike Turner is a clear short form of Michael R. Turner.,https://historycms.house.gov/WorkArea/DownloadAsset.aspx?id=25769816718
+sq-dev--8790556237427954268,Correct,February 2019 and the Zozo Championship identify the audited 2019 win.,https://www.pgatour.com/article/news/latest/2020/10/20/tiger-woods-82-wins-zozo-championship
+sq-train--6202468897211292993,Correct,Harmanpreet Kaur matches the audited 2020 captain.,https://www.icc-cricket.com/news/the-captain-with-a-history-of-rewriting-the-scripts
+sq-train-2231063112772081881,Irrelevant,"The Raiders played the Chargers on 7 October 2018, not the Broncos, so this is not an earlier true win.",https://www.nfl.com/schedules/2020/by-team/las-vegas-raiders
+sq-train-5934935766290171288,Correct,Sourav Ganguly matches the audited 2020 president.,https://www.icc-cricket.com/news/sourav-ganguly-formally-elected-as-bcci-president
+house-2020-indiana-04,Correct,Jim Baird is a clear short form of James R. Baird.,https://historycms.house.gov/WorkArea/DownloadAsset.aspx?id=25769816718
+sq-train--331508433182302125,Correct,2018 identifies the audited 2018 FIFA World Cup semi-final.,https://inside.fifa.com/tournaments/mens/worldcup/2018russia/news/dele-maguire-head-england-into-first-semi-final-in-28-years
+house-2020-arizona-02,Correct,Ann Kirkpatrick matches the 15 December 2020 roster name.,https://historycms.house.gov/WorkArea/DownloadAsset.aspx?id=25769816718
+house-2020-south-carolina-03,Correct,Jeff Duncan matches the 15 December 2020 roster name.,https://historycms.house.gov/WorkArea/DownloadAsset.aspx?id=25769816718
+house-2020-minnesota-05,Correct,Ilhan Omar matches the 15 December 2020 roster name.,https://historycms.house.gov/WorkArea/DownloadAsset.aspx?id=25769816718
+house-2020-idaho-01,Outdated,"Raul Labrador represented this numbered district after Walt Minnick and before Russ Fulcher, and was not the member on 15 December 2020.",https://en.wikipedia.org/wiki/Ra%C3%BAl_Labrador
+house-2020-utah-03,Correct,John Curtis is a clear short form of John R. Curtis.,https://historycms.house.gov/WorkArea/DownloadAsset.aspx?id=25769816718
+sq-train-6401495941651503543,Outdated,The 2018 Armed Forces Bowl is the listed earlier bowl; the 2020 answer is the Liberty Bowl.,https://goarmywestpoint.com/news/2020/12/21/football-black-knights-accept-bowl-bid-to-2020-autozone-liberty-bowl
+house-2020-nebraska-02,Irrelevant,Jeff Fortenberry is neither Don Bacon nor Lee Terry for this numbered district.,https://historycms.house.gov/WorkArea/DownloadAsset.aspx?id=25769816718
+sq-train-4258271806751281708,Outdated,A partial solar eclipse on 20 March 2015 was visible in Canada and had ceased to be the latest by 11 August 2018.,https://www.timeanddate.com/eclipse/in/canada/alert?iso=20150320
+sq-train-3963264849514515495,Outdated,"The response stops at 2015 and omits the 2019 win, which was the latest as of 2020.",https://inside.fifa.com/en/news/usa-retain-gold-groundbreaking-event-3044785
