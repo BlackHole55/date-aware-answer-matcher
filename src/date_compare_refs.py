@@ -1,7 +1,8 @@
-"""Exploratory matcher using independently sourced pilot reference variants."""
+"""Exploratory matcher using sourced reference variants."""
 
 import argparse
 import csv
+import json
 from collections import defaultdict
 from pathlib import Path
 
@@ -18,25 +19,35 @@ def load_references(path, questions):
     questions_by_id = {question["id"]: question for question in questions}
     additions = defaultdict(lambda: {"Correct": [], "Outdated": []})
     seen = {}
-    with path.open(encoding="utf-8-sig", newline="") as handle:
-        reader = csv.DictReader(handle)
-        if not reader.fieldnames or not REQUIRED.issubset(reader.fieldnames):
-            raise ValueError(f"{path} needs columns: {', '.join(sorted(REQUIRED))}")
-        for line, row in enumerate(reader, start=2):
-            item_id = (row["id"] or "").strip()
-            label = (row["label"] or "").strip()
-            answer = (row["answer"] or "").strip()
-            source = (row["evidence_url"] or "").strip()
-            reason = (row["reason"] or "").strip()
-            if item_id not in questions_by_id or label not in additions[item_id] or not answer:
-                raise ValueError(f"Invalid reference ID, label, or answer on line {line}")
-            if not source.startswith("https://") or not reason:
-                raise ValueError(f"Reference on line {line} needs an HTTPS evidence URL and reason")
-            key = (item_id, normalize(answer))
-            if key in seen:
-                raise ValueError(f"Duplicate or conflicting reference for {item_id}: {answer!r}")
-            seen[key] = label
-            additions[item_id][label].append(answer)
+    if path.suffix.lower() == ".json":
+        with path.open(encoding="utf-8-sig") as handle:
+            records = json.load(handle)
+        if not isinstance(records, list) or any(not isinstance(row, dict) for row in records):
+            raise ValueError(f"{path} needs a list of reference objects")
+        if any(not REQUIRED.issubset(row) for row in records):
+            raise ValueError(f"{path} needs fields: {', '.join(sorted(REQUIRED))}")
+        numbered_rows = enumerate(records, start=1)
+    else:
+        with path.open(encoding="utf-8-sig", newline="") as handle:
+            reader = csv.DictReader(handle)
+            if not reader.fieldnames or not REQUIRED.issubset(reader.fieldnames):
+                raise ValueError(f"{path} needs columns: {', '.join(sorted(REQUIRED))}")
+            numbered_rows = list(enumerate(reader, start=2))
+    for line, row in numbered_rows:
+        item_id = (row["id"] or "").strip()
+        label = (row["label"] or "").strip()
+        answer = (row["answer"] or "").strip()
+        source = (row["evidence_url"] or "").strip()
+        reason = (row["reason"] or "").strip()
+        if item_id not in questions_by_id or label not in additions[item_id] or not answer:
+            raise ValueError(f"Invalid reference ID, label, or answer on line {line}")
+        if not source.startswith("https://") or not reason:
+            raise ValueError(f"Reference on line {line} needs an HTTPS evidence URL and reason")
+        key = (item_id, normalize(answer))
+        if key in seen:
+            raise ValueError(f"Duplicate or conflicting reference for {item_id}: {answer!r}")
+        seen[key] = label
+        additions[item_id][label].append(answer)
 
     for item_id, question in questions_by_id.items():
         current = [question["current_answer"], *additions[item_id]["Correct"]]
@@ -85,7 +96,8 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--questions", type=Path, default=ROOT / "data/sample_questions.csv")
     parser.add_argument("--responses", type=Path, default=ROOT / "data/model_responses.csv")
-    parser.add_argument("--references", type=Path, default=DEFAULT_REFERENCES)
+    parser.add_argument("--references", type=Path, default=DEFAULT_REFERENCES,
+                        help="Sourced reference variants in CSV or JSON format")
     parser.add_argument("--output", type=Path, default=ROOT / "data/auto_labels_refs.csv")
     args = parser.parse_args()
     questions = read_csv(args.questions, ("id", "current_answer", "historical_answers"))
